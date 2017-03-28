@@ -1,4 +1,6 @@
+Multiples
 ===========
+r
 Summary
 -----------
 Asks for a number and doubles it
